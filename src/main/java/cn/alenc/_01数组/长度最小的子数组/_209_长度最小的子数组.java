@@ -1,6 +1,4 @@
-package cn.alenc.数组.长度最小的子数组;
-
-import java.util.Arrays;
+package cn.alenc._01数组.长度最小的子数组;
 
 /**
  * @Auther: allenc

@@ -1,6 +1,4 @@
-package cn.alenc.数组.长度最小的子数组;
-
-import cn.alenc.dynamicprogram.连续子序列的最大和;
+package cn.alenc._01数组.长度最小的子数组;
 
 import java.util.HashMap;
 import java.util.Map;

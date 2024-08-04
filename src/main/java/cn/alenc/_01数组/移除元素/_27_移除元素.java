@@ -1,4 +1,4 @@
-package cn.alenc.数组.移除元素;
+package cn.alenc._01数组.移除元素;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package cn.alenc.数组.二分查找;
+package cn.alenc._01数组.二分查找;
 
 import java.util.Arrays;
 
